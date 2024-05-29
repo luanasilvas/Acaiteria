@@ -1,0 +1,15 @@
+/* Home.css */
+
+.home-container {
+    text-align: center; 
+    background-color: #6dc9cc; /* Define a cor de fundo do body*/
+    color: #0e0d0d; /* Cor das letras */
+    padding: 20px; 
+  }
+  
+  #prodestaq,
+  #mangdestaq {
+    margin-top: 20px; /* Adiciona um espaçamento acima das frases */
+  }
+  
+  

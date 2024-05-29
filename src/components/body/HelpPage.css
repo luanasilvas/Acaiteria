@@ -1,0 +1,22 @@
+.help-container {
+    padding: 20px;
+  }
+  
+  .help-container p {
+    margin-bottom: 15px; 
+    background-color: #f0f0f0; 
+    padding: 10px; 
+    border-radius: 5px; 
+  }
+
+.help-container {
+  background-color: #99c6ec; 
+  padding: 20px; 
+}
+
+.card-container {
+  background-color: #ffffff; 
+  border: 1px solid #242222; 
+  border-radius: 5px; 
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 
+}

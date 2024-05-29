@@ -1,0 +1,19 @@
+Todos os arquivos nesse diretório possui um conunto de quatro cards
+
+
+<Card style={{ width: "18rem" }} className="card">
+          <Card.Img src={image1} variant="top" />
+          <Card.Body>
+            <Card.Title>Pó Colorido Holi Warna </Card.Title>
+            <Card.Text>Cor: Vermelho</Card.Text>
+            <p className="card-text">
+              um produto ideal para sua festa ou confraternização!
+            </p>
+            <p className="card-text">
+              As nossas cores são idênticas as fotos acima!
+            </p>
+            <Button variant="primary">Comprar agora</Button>
+          </Card.Body>
+        </Card>
+
+esse é um exemplo de codigo de um unico card.
